@@ -1,2 +1,4 @@
 # NET237-PROJECT
-This is ove Cameroon vpn application
+This is our Cameroon vpn application
+#Tzyred
+#Kentech
